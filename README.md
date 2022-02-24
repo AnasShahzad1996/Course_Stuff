@@ -1,1 +1,5 @@
 # Digital Product School Challenge Code
+
+
+### The results for the following input is : test_mpg = [1, 2, 3, 2, -2, -1, -2, -1, 0] is 17.07827
+### The results for the following input is : test_mpg = [1.4838871833555929,1.8659883497083019,2.234620276849616, 1.0187816540094903,-2.530890710602246,-1.6046416850441676,-0.4651483719733302,-0.4952254087173721,0.7746763768735953] is 16.2753372
